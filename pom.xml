@@ -7,19 +7,31 @@
 	
 	<packaging>jar</packaging>
 	<name>java-captcha-sdk</name>
+    <description>meizu aegis captcha sdk.</description>
+
+    <url>https://github.com/MeizuAegis/java-captcha-sdk</url>
+    <inceptionYear>2019</inceptionYear>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+	
+    <developers>
+        <developer>
+            <id>zhaoansel</id>
+            <name>zhaoansel</name>
+            <email>zhaoansel@163.com</email>
+        </developer>
+    </developers>
 
     <scm>
-        <url>https://github.com/MeizuAegis/java-captcha-sdk</url>
-        <connection>scm:git:https://github.com/MeizuAegis/java-captcha-sdk</connection>
+        <url>https://github.com/MeizuAegis/java-captcha-sdk.git</url>
+        <connection>scm:git:https://github.com/MeizuAegis/java-captcha-sdk.git</connection>
     </scm>
 
 	<organization>
 		<name>Aegis Group</name>
-		<url>https://github.com/MeizuAegisGroup</url>
+		<url>https://github.com/MeizuAegis</url>
 	</organization>
 
 	<licenses>
